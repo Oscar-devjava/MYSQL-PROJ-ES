@@ -4,7 +4,8 @@ E os grandes chefes precisam Saber os locais ativos e inativos!
 
 CRIE uma tabela chamada FILIAIS com os campos:
 IDENTIFICADOR,ESTADO, ENDERECO, CEP,REPRESENTANTE,
-QUANTIDADE DE FUNCIONARIOS.
+QUANTIDADE DE FUNCIONARIOS e ATIVO = Y ou N(PODENDO 
+ISERIR APENAS UMA LETRA E O PADRÃO É Y).
 Insira no minimo dez(10) 
 
 Depois faça uma alteração na tabela adicionando uma coluna
